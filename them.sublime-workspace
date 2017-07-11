@@ -1,0 +1,1092 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getele",
+				"getElementsByClassName	( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"getel",
+				"getElementById	( elementId: DOMString ): Element Document"
+			],
+			[
+				"mar",
+				"margin-left	(style.css)"
+			],
+			[
+				"name",
+				"nameProduct	(index.php)"
+			],
+			[
+				"v",
+				"value	(index.php)"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"bu",
+				"budget	(booklist.php)"
+			],
+			[
+				"previous",
+				"previousSibling	: Node Node"
+			],
+			[
+				"sibl",
+				"previousSibling	(): Node TreeWalker"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"title",
+				"title-static"
+			],
+			[
+				"book",
+				"booklist	(index.php)"
+			],
+			[
+				"inner",
+				"inner-booklist	(index.php)"
+			],
+			[
+				"sib",
+				"previousSibling	: Node Node"
+			],
+			[
+				"fun",
+				"function	(script.js)"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"B",
+				"BudgetEnvelope"
+			],
+			[
+				"Bu",
+				"Busket"
+			],
+			[
+				"cha",
+				"changebusket	(index.php)"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"BU",
+				"Busket"
+			],
+			[
+				"Bud",
+				"BudgetEnvelopeC	(change.php)"
+			],
+			[
+				"pr",
+				"PriceEnvelopeC"
+			],
+			[
+				"na",
+				"nameEnvelopeC"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"mart",
+				"margin-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"inn",
+				"inner-delform"
+			],
+			[
+				"chi",
+				"children	: HTMLCollection Document"
+			],
+			[
+				"chil",
+				"childNodes	: NodeList Node"
+			],
+			[
+				"id",
+				"id='id-del	(index.php)"
+			],
+			[
+				"getelemen",
+				"getElementById	( elementId: DOMString ): Element Document"
+			],
+			[
+				"geteleme",
+				"description-getElementById	Document"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ap",
+				"api"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"tran",
+				"translate()"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"get",
+				"get_sidebar"
+			],
+			[
+				"add",
+				"add_action"
+			],
+			[
+				"end",
+				"endif	(index.php)"
+			],
+			[
+				"get_",
+				"get_headers"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ch",
+				"children	: HTMLCollection Element"
+			],
+			[
+				"parent",
+				"parentElement	: Element Node"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"u",
+				"underline"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"b",
+				"back-scheme-2.png	w:1925 h:1039"
+			],
+			[
+				"sch",
+				"schema2	(index.php)"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ha",
+				"hand-instr.png	w:109 h:119"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"phone",
+				"phone-form	(header.php)"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"li",
+				"lightgray"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"ge",
+				"get_template_directory_uri"
+			],
+			[
+				"broder",
+				"border-bottom"
+			],
+			[
+				"text-tr",
+				"text-transform"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"mer",
+				"mercury_widget_setup"
+			],
+			[
+				"wp",
+				"wp_enqueue_scripts"
+			],
+			[
+				"me",
+				"mercury_script_enqueue"
+			],
+			[
+				"pare",
+				"parentElement	: Element Node"
+			],
+			[
+				"se",
+				"selected	Attr"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"sa",
+				"scale()"
+			],
+			[
+				"do",
+				"document	: Document Window"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"rea",
+				"repeat-x"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"setTi",
+				"setTimeout	( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"ro",
+				"rotate()"
+			],
+			[
+				"rep",
+				"no-repeat"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"rot",
+				"rotateX()"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"sea",
+				"search	( regexp: any ): int String"
+			],
+			[
+				"Te",
+				"Test_1	(form_test_1_3.php)"
+			],
+			[
+				"my",
+				"mysql_query	(form_test_1_3.php)"
+			],
+			[
+				"Test",
+				"Test_1	(form_test_1_2.php)"
+			],
+			[
+				"req",
+				"require	(form_test_1_2.php)"
+			],
+			[
+				"co",
+				"connect.php	(form_test_1_2.php)"
+			],
+			[
+				"К",
+				"Категория"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"s",
+				"stroke"
+			],
+			[
+				"Pi",
+				"PI2"
+			],
+			[
+				"stro",
+				"strokeStyle"
+			],
+			[
+				"line",
+				"lineWidth"
+			],
+			[
+				"P",
+				"PI2"
+			],
+			[
+				"update",
+				"updateContinues"
+			],
+			[
+				"clearIn",
+				"description-clearInterval	Window"
+			],
+			[
+				"up",
+				"updateDiscrete"
+			],
+			[
+				"set",
+				"setInterval	( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"d",
+				"discrete"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?php \n$count = esc_attr(get_option('recent_posts'));  \n\n$args = array(\n	'numberposts' => $count,\n	'offset' => 0,\n	'category' => 0,\n	'orderby' => 'post_date',\n	'order' => 'DESC',\n	'post_type' => 'post',\n	'post_status' => 'publish',\n	'suppress_filters' => true );\n\n$recent_posts = wp_get_recent_posts( $args, ARRAY_A );\n\n?>\n\n<section id=\"post\">\n	<div class=\"section-inner\">\n		<div class=\"wrapper\">\n			<div class=\"section-title\">\n				<h2>Last News</h2>\n				<div class=\"seperator size-small\"><span></span></div>\n				<h4 class=\"subtitle\">Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum</h4>\n			</div>\n			<div class=\"wrap-post\">\n				<?php foreach( $recent_posts as $recent ){ ?>\n					<?php \n					$thumbnail = get_the_post_thumbnail($recent['ID'], 'medium');\n					$trimmed_content = wp_trim_words( $recent[\"post_content\"], 50, NULL );\n					?>\n					<div class=\"post-item\">\n						<?php echo $thumbnail; ?>\n						<h3 class=\"title-post\"><?php echo $recent[\"post_title\"]; ?></h3>\n						<div class=\"seperator size-small\"><span></span></div>\n						<p class=\"text-post\"><?php echo $trimmed_content; ?></p>\n						<div class=\"seperator size-small\"><span></span></div>\n						<div class=\"more-post\">\n							<a href=\"<?php echo get_post_permalink($recent['ID']); ?>\">MORE</a>\n						</div>\n					</div>\n					<?php } ?>\n				</div>\n			</div>\n		</div>\n	</section>\n\n",
+			"file": "template-parts/section-post.php",
+			"file_size": 1388,
+			"file_write_time": 131438459638960909,
+			"settings":
+			{
+				"buffer_size": 1341,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/XLAM/OPEN SERV/OpenServer/domains/ListFinance/del.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/ListFinance/reg.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/ListFinance/change.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/ListFinance/save_setting.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/ListFinance/booklist.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/theme-v.1.0/header.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/ListFinance/script.js",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/ListFinance/style.css",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/ListFinance/index.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/theme-v.1.0/template-parts/section-post.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/theme-v.1.0/functions.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/ListFinance/listfinance.sql",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/ListFinance/connect.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/ListFinance/save-setting.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Social/save-setting.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Social/Index.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Social/save_user.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Social/register.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/WebProject/index.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Social/connect.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Poezdec/register.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Poezdec/function.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Poezdec/header.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Poezdec/index.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/theme-v.1.0/functions.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/theme-v.1.0/css/style.css",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/theme-v.1.0/template-parts/section-team.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/theme-v.1.0/js/script.js",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/theme-v.1.0/index.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/theme-v.1.0/inc/templates/zzrt-admin-slides-settings.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/theme-v.1.0/index.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/theme-v.1.0/template-parts/section-services.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/Mercury/index.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/theme-v.1.0/header.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/theme-v.1.0/js/backgroundVideo.js",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/XeonThem/theme-v.1.0/index.php",
+		"/C/XLAM/gitTemplate/theme-v.1.0/header.php",
+		"/C/XLAM/1gitVk/againvk/index.html",
+		"/C/XLAM/1gitVk/index.html",
+		"/C/XLAM/workGit/index.html",
+		"/C/Users/bod1k/Documents/GitHub/vktest/index.html",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/vk/index.html",
+		"/C/XLAM/vk/index.html",
+		"/C/Users/bod1k/Desktop/index.html",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-2/script.js",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-2/section-news.php",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-2/section-team.php",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-2/section-home.php",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-2/function-admin.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/awesomethem/page-home.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/awesomethem/index.php",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/XLAM/Xone/js/script.js",
+		"/C/XLAM/Xone/css/style.css",
+		"/C/XLAM/Xone/index.html",
+		"/C/XLAM/1TemplateMarkup/css/style.css",
+		"/C/XLAM/1TemplateMarkup/js/script.js",
+		"/C/XLAM/1TemplateMarkup/index.html",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/MediaMart/index.html",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/awesomethem/footer.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/awesomethem/header.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/awesomethem/content.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/awesomethem/sidebar.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/awesomethem/functions.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/awesomethem/page-about-me.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/awesomethem/style.css",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/TemplateMonster/wp-content/themes/awesomethem/page-notitle.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Social/LogOut.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Social/css/style.css",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Test/search.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Social/sript.js",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Test/connect.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Test/form_test_search_2.html",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Test/form_test_search.html",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Social/form_test_search.html",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Social/Session.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Test/form_test_1_4.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Test/form_test_1_5.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/Mercury/js/script.js",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/Mercury/functions.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/Mercury/header.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/Mercury/footer.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/Mercury/wp-config.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/Mercury/style.css",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-2/wp-settings.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/plugins/bxslider-wp/bxslider/jquery.bxslider.js",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/plugins/bxslider-wp/src/BxSliderWp/Frontend.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/plugins/bxslider-wp/js/initialize.js",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyseventeen/single.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyseventeen/front-page.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyseventeen/comments.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyseventeen/header.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyseventeen/index.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyseventeen/template-parts/header/header-image.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyseventeen/style.css",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyfifteen/header.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyfifteen/page.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyfifteen/single.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyfifteen/archive.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyfifteen/content.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/twentyfifteen/index.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/Mercury/css/custom.css",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/Mercury/function.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Mercury/wp-content/themes/Mercury/footrer.php",
+		"/C/XLAM/rockmy/TOP паролей интернета  3624  29,7 КБ/output.txt",
+		"/C/XLAM/Hack wi-fi/version with passwrodlist",
+		"/C/XLAM/Hack wi-fi/reaver version",
+		"/C/Users/bod1k/Downloads/rockyou.txt",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/WebProject/save_user.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/WebProject/Session.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/WebProject/testreg.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/WebProject/register.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Social/testreg.php",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/WebProject/connect.php",
+		"/C/XLAM/tik-tak/index.html",
+		"/C/XLAM/OPEN SERV/OpenServer/domains/Poezdec/connect.php",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-1/section-video.php",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-1/script.js",
+		"/C/Users/bod1k/AppData/Local/Temp/fz3temp-1/backgroundVideo.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"close",
+			"rightblock",
+			".inner-delform span",
+			"rightblock",
+			"right-block",
+			"ri",
+			"close",
+			"name-envelope",
+			"fa fa",
+			"fa-fa",
+			"fa0-fa",
+			".inner-delform",
+			"nameEnvelope",
+			"delform",
+			"a.sr-buttonicon.medium-button",
+			".text-slider a",
+			"nav li",
+			"overlay",
+			".logo-light",
+			"loader",
+			".one-third",
+			"heightScale",
+			"height",
+			"100зч",
+			".logo",
+			"#backtotop",
+			"a.sr-buttonicon.medium-button",
+			".text-slider a",
+			"img",
+			"шьп",
+			"preloader",
+			"text",
+			".sub-schem7 .rect:after",
+			"project-title",
+			"url",
+			"inner-project",
+			"img",
+			"jenya",
+			"bod1ch1234567890p",
+			"bodich",
+			"gkfdda",
+			"loasd",
+			"syka",
+			"pidor",
+			"xuy",
+			"ruslan",
+			"bohdan",
+			"bogdan",
+			"myaso",
+			"lol",
+			"alenamirosha",
+			"alena",
+			"qop1234",
+			"qop123",
+			"qwerty",
+			"bauman74",
+			"users",
+			"user",
+			"video",
+			"https://code.jquery.com/jquery-3.2.1.min.js",
+			"video",
+			".imgoverlay",
+			"\"",
+			"#ff2a7e",
+			"option",
+			"options",
+			"option",
+			"preloader",
+			"done",
+			"label",
+			".one-fourth",
+			"counter",
+			".owl-theme .owl-controls .owl-page",
+			"bx-wrapper",
+			".bx-wrapper",
+			"imgoverlay",
+			"overlayinfo",
+			".imgoverlay .overlay",
+			".spacer.spacer-small",
+			"my-video",
+			".column-section",
+			"<div class=\"iconbox wow slideInLeft\" data-wow-delay=\".5s\">",
+			"column one-third ",
+			".seperator.height-1px span",
+			"separator",
+			"last-col",
+			".column",
+			"x",
+			".cart-top-cut .shopping_cart",
+			"search-hide",
+			"$",
+			"container pt",
+			"col-lg-8 col-lg-offset-2 centered",
+			".home-intro",
+			"basket",
+			"my basket",
+			"woocommerce_cart_link",
+			"basket",
+			"baskey",
+			"my basket",
+			"cart-button",
+			"cart-button ",
+			"items",
+			"cart-button ",
+			"checkout",
+			"featured-products",
+			"rating-box",
+			"ratings",
+			"no-rating",
+			"add-to-box",
+			"offers",
+			"product_sku",
+			"offers",
+			"short-description",
+			"product-name",
+			"amount",
+			"amount.no-pager",
+			".you-img",
+			".novinki-category",
+			".page-title, .category-image",
+			".block.block-subscribe",
+			".social",
+			".post-home-center #blogslider .item",
+			".cart-top-cut",
+			".quick-search",
+			".sm-mel",
+			".cart-top-sr",
+			".quick-search"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"jQuery",
+			"jQuery(function(){\nvar WIDTH;\nvar HEIGHT;\nvar canvas;\nvar con;\nvar g;\nvar pxs = new Array;\nvar rint = 60;\nvar numberObject = 8e3;\nvar numberBall = 50;\nvar pulsion = 20;\nvar radius = 10;\nvar speedX = 5;\nvar speedY = 2;\nvar widthRect = 100;\nvar heightRect = 100;\n\nvar opacityRect = .6;\n\n\n\njQuery(document).ready(function() {\n    BrowserDetection();\n    WIDTH = window.innerWidth/2;\n    HEIGHT = window.innerHeight;\n    canvas = document.getElementById(\"pixie\");\n    jQuery(canvas).attr(\"width\", WIDTH).attr(\"height\", HEIGHT);\n    con = canvas.getContext(\"2d\");\n    for (var e = 0; e < numberBall; e++) {\n        pxs[e] = new Circle;\n        pxs[e].reset();\n    }\n    setInterval(draw, rint);\n});\n\n\n\nfunction BrowserDetection() {\n    if (/Firefox[\\/\\s](\\d+\\.\\d+)/.test(navigator.userAgent)) {\n        var e = new Number(RegExp.jQuery1);\n        rint = 10;\n        pulsion = 3\n    } else if (/MSIE (\\d+\\.\\d+);/.test(navigator.userAgent)) {\n        var t = new Number(RegExp.jQuery1);\n        rint = 50;\n        pulsion = 16\n    } else if (/Chrome[\\/\\s](\\d+\\.\\d+)/.test(navigator.userAgent)) {\n        var n = new Number(RegExp.jQuery1);\n        rint = 50;\n        pulsion = 16\n    } else if (/Opera[\\/\\s](\\d+\\.\\d+)/.test(navigator.userAgent)) {\n        var r = new Number(RegExp.jQuery1);\n        rint = 50;\n        pulsion = 16\n    } else if (/Safari[\\/\\s](\\d+\\.\\d+)/.test(navigator.userAgent)) {\n        var i = new Number(RegExp.jQuery1);\n        rint = 50;\n        pulsion = 16\n    }\n    WIDTH = window.innerWidth;\n    if (WIDTH < 1024) {\n        numberObject = 19e3;\n        numberBall = 10;\n        pulsion = 2;\n        rint = 10\n    }\n}\nfunction draw() {\n    con.clearRect(0, 0, WIDTH, HEIGHT);\n    for (var e = 0; e < pxs.length; e++) {\n        pxs[e].fade();\n        pxs[e].move();\n        pxs[e].draw()\n    }\n}\nfunction Circle() {\n    WIDTH = window.innerWidth;\n    HEIGHT = window.innerHeight;\n    this.s = {\n        ttl: numberObject,\n        xmax: speedX,\n        ymax: speedY,\n        rmax: radius,\n        rt: pulsion,\n        xdef: 960,\n        ydef: 540,\n        xdrift: 4,\n        ydrift: 4,\n        random: true,\n        blink: true\n    };\n    this.reset = function() {\n        this.x = this.s.random ? WIDTH * Math.random() : this.s.xdef;\n        this.y = this.s.random ? HEIGHT * Math.random() : this.s.ydef;\n        this.r = (this.s.rmax - 1) * Math.random() + 1;\n        this.dx = Math.random() * this.s.xmax * (Math.random() < .5 ? -1 : 1);\n        this.dy = Math.random() * this.s.ymax * (Math.random() < .5 ? -1 : 1);\n        this.hl = this.s.ttl / rint * (this.r / this.s.rmax);\n        this.rt = Math.random() * this.hl;\n        this.s.rt = Math.random() + 1;\n        this.stop = Math.random() * .2 + .4;\n        this.s.xdrift *= Math.random() * (Math.random() < .5 ? -1 : 1);\n        this.s.ydrift *= Math.random() * (Math.random() < .5 ? -1 : 1);\n    };\n    this.fade = function() {\n        this.rt += this.s.rt\n    };\n    this.draw = function() {\n        if (this.s.blink && (this.rt <= 0 || this.rt >= this.hl))\n            this.s.rt = this.s.rt * -1;\n        else if (this.rt >= this.hl)\n            this.reset();\n\n		var arr = [\"rgba(255,0,0,\", \"rgba(255,127,1,\", \"rgba(255,255,0,\",\"rgba(0,255,0,\",\"rgba(0,255,255,\",\"rgba(0,0,255,\",\"rgba(190,2,255,\"];\n		var rand = Math.floor(Math.random() * arr.length);\n        var e = 1 - this.rt / this.hl;\n        con.beginPath();\n        con.rect(this.x, this.y, widthRect, heightRect);\n        con.closePath();\n        var t = this.r * e;\n        g = con.createRadialGradient(this.x, this.y, 0, this.x, this.y, t <= 0 ? 1 : t);\n        g.addColorStop(this.stop, arr[rand] + e * opacityRect + \")\");\n        con.fillStyle = g;\n        con.fill();\n    	\n    }\n    ;\n  \n    this.move = function() {\n        WIDTH = window.innerWidth;\n        HEIGHT = window.innerHeight;\n        this.x += this.rt / this.hl * this.dx;\n        this.y += this.rt / this.hl * this.dy;\n        if (this.x > WIDTH || this.x < 0)\n            this.dx *= -1;\n        if (this.y > HEIGHT || this.y < 0)\n            this.dy *= -1\n    }\n    ;\n    this.getX = function() {\n        return this.x\n    }\n    ;\n    this.getY = function() {\n        return this.y\n    }\n\n}\n\n\n\n});\n\njQuery(function(){\nfunction BrowserDetection() {\n    if (/Firefox[\\/\\s](\\d+\\.\\d+)/.test(navigator.userAgent)) {\n        var e = new Number(RegExp.jQuery1);\n        rint = 10;\n        pulsion = 3\n    } else if (/MSIE (\\d+\\.\\d+);/.test(navigator.userAgent)) {\n        var t = new Number(RegExp.jQuery1);\n        rint = 50;\n        pulsion = 16\n    } else if (/Chrome[\\/\\s](\\d+\\.\\d+)/.test(navigator.userAgent)) {\n        var n = new Number(RegExp.jQuery1);\n        rint = 50;\n        pulsion = 16\n    } else if (/Opera[\\/\\s](\\d+\\.\\d+)/.test(navigator.userAgent)) {\n        var r = new Number(RegExp.jQuery1);\n        rint = 50;\n        pulsion = 16\n    } else if (/Safari[\\/\\s](\\d+\\.\\d+)/.test(navigator.userAgent)) {\n        var i = new Number(RegExp.jQuery1);\n        rint = 50;\n        pulsion = 16\n    }\n    WIDTH = window.innerWidth;\n    if (WIDTH < 1024) {\n        numberObject = 19e3;\n        numberBall = 10;\n        pulsion = 2;\n        rint = 10\n    }\n}\nfunction draw() {\n    con.clearRect(0, 0, WIDTH, HEIGHT);\n    for (var e = 0; e < pxs.length; e++) {\n        pxs[e].fade();\n        pxs[e].move();\n        pxs[e].draw()\n    }\n}\nfunction Circle() {\n    WIDTH = window.innerWidth;\n    HEIGHT = window.innerHeight;\n    this.s = {\n        ttl: numberObject,\n        xmax: speedX,\n        ymax: speedY,\n        rmax: radius,\n        rt: pulsion,\n        xdef: 960,\n        ydef: 540,\n        xdrift: 4,\n        ydrift: 4,\n        random: true,\n        blink: true\n    };\n    this.reset = function() {\n        this.x = this.s.random ? WIDTH * Math.random() : this.s.xdef;\n        this.y = this.s.random ? HEIGHT * Math.random() : this.s.ydef;\n        this.r = (this.s.rmax - 1) * Math.random() + 1;\n        this.dx = Math.random() * this.s.xmax * (Math.random() < .5 ? -1 : 1);\n        this.dy = Math.random() * this.s.ymax * (Math.random() < .5 ? -1 : 1);\n        this.hl = this.s.ttl / rint * (this.r / this.s.rmax);\n        this.rt = Math.random() * this.hl;\n        this.s.rt = Math.random() + 1;\n        this.stop = Math.random() * .2 + .4;\n        this.s.xdrift *= Math.random() * (Math.random() < .5 ? -1 : 1);\n        this.s.ydrift *= Math.random() * (Math.random() < .5 ? -1 : 1)\n    }\n    ;\n    this.fade = function() {\n        this.rt += this.s.rt\n    }\n    ;\n    this.draw = function() {\n        if (this.s.blink && (this.rt <= 0 || this.rt >= this.hl))\n            this.s.rt = this.s.rt * -1;\n        else if (this.rt >= this.hl)\n            this.reset();\n        var e = 1 - this.rt / this.hl;\n        con.beginPath();\n        con.rect(this.x, this.y, widthRect, heightRect);\n        con.closePath();\n        var t = this.r * e;\n        g = con.createRadialGradient(this.x, this.y, 0, this.x, this.y, t <= 0 ? 1 : t);\n        g.addColorStop(this.stop, colorRect + e * opacityRect + \")\");\n        con.fillStyle = g;\n        con.fill()\n    }\n    ;\n    this.move = function() {\n        WIDTH = window.innerWidth;\n        HEIGHT = window.innerHeight;\n        this.x += this.rt / this.hl * this.dx;\n        this.y += this.rt / this.hl * this.dy;\n        if (this.x > WIDTH || this.x < 0)\n            this.dx *= -1;\n        if (this.y > HEIGHT || this.y < 0)\n            this.dy *= -1\n    }\n    ;\n    this.getX = function() {\n        return this.x\n    }\n    ;\n    this.getY = function() {\n        return this.y\n    }\n}\nvar WIDTH;\nvar HEIGHT;\nvar canvas;\nvar con;\nvar g;\nvar pxs = new Array;\nvar rint = 60;\nvar numberObject = 8e3;\nvar numberBall = 50;\nvar pulsion = 20;\nvar radius = 10;\nvar speedX = 5;\nvar speedY = 2;\nvar widthRect = 100;\nvar heightRect = 100;\nvar colorRect = \"rgba(255,255,255,\";\nvar opacityRect = .6;\n\njQuery(document).ready(function() {\n    BrowserDetection();\n    WIDTH = window.innerWidth/2;\n    HEIGHT = window.innerHeight;\n    canvas = document.getElementById(\"pixie2\");\n    jQuery(canvas).attr(\"width\", WIDTH).attr(\"height\", HEIGHT);\n    con = canvas.getContext(\"2d\");\n    for (var e = 0; e < numberBall; e++) {\n        pxs[e] = new Circle;\n        pxs[e].reset()\n    }\n    setInterval(draw, rint)\n})\n\n});\njQuery(function(){\n\n\n\n});",
+			"jQuery",
+			"left",
+			"right",
+			"1000",
+			".next",
+			".prev",
+			"<a href=\"#\" rel=\"external\" data-ajax=\"false\"",
+			"<a href=\"#Mon\" rel=\"external\" data-ajax=\"false\"",
+			"<form class=\"col-xs-12 col-md-10\">",
+			"<img alt=\"car\"",
+			"img alt=\"car\"",
+			"a href=\"#\"",
+			".nav",
+			".container",
+			"category"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "template-parts/section-post.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1341
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "them.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\bod1k\\Downloads\\countdown\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\XLAM\\OPEN SERV\\OpenServer\\domains\\ListFinance\\lol.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
